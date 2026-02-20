@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Nkanyiso-Cyber</h1>
-<h3 align="center">🎓Cybersecurity Student | Aspiring Security Analyst</h3>
+<h3 align="center">🎓Network and Cybersecurity Student | Aspiring Security Analyst</h3>
 
 <p align="center">
   💻 Learning software development and building foundational skills in coding.
@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🎓 I’m currently a Cybersecurity Student student
+- 🎓 I’m currently Network and Cybersecurity Student student
 - 🌱 I’m actively learning programming and web development
 - 💡 I love solving problems and learning new technologies
 - 📚 Currently exploring Python, JavaScript & GitHub workflows
@@ -18,6 +18,8 @@
 ---
 
 ## 🛠️ Skills (Learning)
+
+###### 🔹 Modules Compeleted
 
 ### 🔹 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -57,7 +59,7 @@
 Feel free to add:
 - LinkedIn
 - Personal website (once ready)
-
+-Work Email : NkanyiCyber@gmail.com
 ---
 
 ⭐ *“Every expert was once a beginner.”*
